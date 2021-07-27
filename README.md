@@ -25,8 +25,8 @@ We based our research on a contrarian strategy hypothesis. As stated in a study 
 Although, after doing our research, we analyzed each day and found that they produce quite the opposite results. In the Chinese stock market, particularly the HS300, we found that the top 10% worst performing strategies during the day were the ones whose price dropped the most during the night, thus had negative return. On the other hand, the ones that had the best performance during the day were the ones that grew up the most at the end of the night period (Figure 2).
 
 <figure>
-  <img src="figure1.jpg" alt="figure 1" style="width:100%">
-  <img src="figure2.jpg" alt="figure 2" style="width:100%">
+  <img src="fig1.jpg" alt="figure 1" style="width:100%">
+  <img src="fig2.jpg" alt="figure 2" style="width:100%">
   <figcaption>Fig.1. (Rudy, Dunis and Laws’s research on S&P 600) Trend of the stock during one day in the S&P 600 in 2010, source: Dunis, C. L., Laws, J., & Rudy, J. (2011). Profitable mean reversion after large price drops: A story of day and night in the S&P 500, 400 MidCap and 600 SmallCap Indices. Journal of Asset Management, 12(3), 185–202. doi: 10.1057/jam.2011.15. Figure 2: (HS300-2012-10-31) Our analysis on information from HS300 stock market from the date of October 31st of 2010.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ After analyzing the data, we found that the ratio that selling a profit/loss aft
 ### Ten best performed stocks in the long term
 
 <figure>
-  <img src="figure3.jpg" alt="figure 3" style="width:100%">
+  <img src="fig3.jpg" alt="figure 3" style="width:100%">
   <figcaption>Fig.3. The Ten Best Performed Stock in the long term</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ As can be seen in Figure 3, the ten-best performed stock in three years from 201
 ### Market trend
 
 <figure>
-  <img src="figure4.jpg" alt="figure 4" style="width:100%">
+  <img src="fig4.jpg" alt="figure 4" style="width:100%">
   <figcaption>Fig.4. The Average Rise in A Share Stock Market</figcaption>
 </figure>
 
@@ -58,12 +58,12 @@ Similarly, the companies that are more frequently in the 10% worst performance d
 The main difference, between the best and the worse performing companies, is that the first ones have more sudden rises in their price, as a result, their stocks are mostly at a relatively high price; on the other hand, the last ones have more sudden drops in their price, thus, their price is mostly at a relatively low price.
 
 <figure>
-  <img src="figure5-8.jpg" alt="figures 5-8" style="width:100%">
+  <img src="fig5-8.jpg" alt="figures 5-8" style="width:100%">
   <figcaption>Fig.5. 荣盛发展’s general trend in the stock market from June 2012 to June 2014. Figure 6, 亚厦股份’s general trend in the stock market from June 2012 to June 2014. Figure 7, 威孚高科’s general trend in the stock market from June 2012 to June 2014. Figure 8, 科大讯飞’s general trend in the stock market from June 2012 to June 2014.</figcaption>
 </figure>
 
 <figure>
-  <img src="figure9.jpg" alt="figure 9-12" style="width:100%">
+  <img src="fig9-12.jpg" alt="figure 9-12" style="width:100%">
   <figcaption>纽威股份’s general trend in the stock market from January to June 2014. Figure 10, 陕西煤业’s general trend in the stock market from January to June 2014. Figure 11, 浙能电力’s general trend in the stock market from December 2013 to June 2014. Figure 12, 美的集团’s general trend in the stock market from September 2013 to June 2014.</figcaption>
 </figure>
 
